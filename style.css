@@ -1,13 +1,16 @@
+*{
+    margin: 3px;
+}
 main{
+    
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
 }
-img{
-    margin-left: 10px;
+
+.button{
+    position: absolute;
+    left: 50px;
 }
-#button{
-    margin-bottom: 50px;
-   
-}
+
